@@ -55,7 +55,7 @@ I'm a Computer Science student passionate about building software that makes a d
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hhubert14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hhubert14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
