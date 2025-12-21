@@ -14,7 +14,7 @@ I'm a Computer Science student passionate about building software that makes a d
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huberthuang1/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/huberthuang1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://huberthuang.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user9664Z/)
 
