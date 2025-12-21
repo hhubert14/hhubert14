@@ -59,13 +59,13 @@ I'm a Computer Science student passionate about building software that makes a d
 
 <div align="center">
 
-<img src="https://github-readme-stats-hhubert14.vercel.app/api?username=hhubert14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats-hhubert14.vercel.app/api/top-langs/?username=hhubert14&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-hhubert14.vercel.app/api?username=hhubert14&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-hhubert14.vercel.app/api/top-langs/?username=hhubert14&layout=compact&theme=highcontrast&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hhubert14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=hhubert14&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 </div>
