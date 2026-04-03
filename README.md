@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hubert+Huang;CS+Student+%26+Software+Engineer;Building+cool+things+with+code&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hubert+Huang;CS+%40+WashU+%7C+Incoming+SWE+Intern+%40+Capital+One;Open+Source+Contributor+%40+GitLab&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
-I'm a Computer Science student passionate about building software that makes a difference. I love exploring new technologies and turning ideas into reality through code.
+CS student at Washington University in St. Louis. Incoming Software Engineering Intern at Capital One. Open source contributor to GitLab.
 
-- Currently learning and building with modern web technologies
-- Interested in full-stack development, cloud computing, and machine learning
+- Contributing to open source at GitLab and through CodePath's OSS program
+- Interested in full-stack development, AI/ML, and developer tools
 - Always open to collaborating on interesting projects
 
 ## Connect With Me
